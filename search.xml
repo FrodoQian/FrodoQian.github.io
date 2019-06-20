@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[hello blog]]></title>
+    <url>%2F2019%2F06%2F17%2Fhello-blog%2F</url>
+    <content type="text"><![CDATA[谢天谢地你来啦!这是我的第一篇博客,不仅仅是想锻炼下我的技术.还有想找个自己的独立的空间来完全记录下自己的生活,记录下自己的成长.我一直担心是不是会在其他的平台丢失自己的东西.所以就独自做了这块独立的空间.偶尔可以同步下自己的想法. 我是个思维跳跃的人,很多思绪总是转瞬即逝,所以为了让自己的思想有价值,就想着尽快记录下来. 比如此时此刻在写这篇博客,我突然意识到了微信公众号的价值所在,因为,微信公众号真正的降低了大家写文章博客的门槛,给了大家分享自己的独立空间. 我不知道这个博客能走多远,就且让他这么存在这里吧,也会成为我锻炼自己技术的一个自留地.]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F06%2F17%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
