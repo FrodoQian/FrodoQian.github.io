@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-17T12:34:53.361Z</updated>
+  <updated>2019-06-22T07:49:29.196Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/06/22/%E4%BC%98%E7%A7%80%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BD%91%E7%AB%99%E5%90%88%E9%9B%86/"/>
+    <id>http://yoursite.com/2019/06/22/优秀的技术网站合集/</id>
+    <published>2019-06-22T07:49:40.746Z</published>
+    <updated>2019-06-22T07:49:29.196Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="种草算法学习网站"><a href="#种草算法学习网站" class="headerlink" title="种草算法学习网站"></a>种草算法学习网站</h3><ul><li>数据结构和算法动态可视化 </li></ul><figure class="highlight http"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">https://visualgo.net/zh</span></span><br></pre></td></tr></table></figure><h3 id="Hexo搭建博客网站"><a href="#Hexo搭建博客网站" class="headerlink" title="Hexo搭建博客网站"></a>Hexo搭建博客网站</h3><ul><li><strong>Moorez</strong> 博客 </li></ul><figure class="highlight http"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">http://shenzekun.cn/</span></span><br></pre></td></tr></table></figure><p><strong>Moorez</strong>做的聊天评论功能是值得特别推荐的</p><ul><li><strong>Nikkkki’s Notes</strong></li></ul><figure class="highlight http"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">https://xuquan.site</span></span><br></pre></td></tr></table></figure><p><strong>Nikkkki’s Notes</strong>做的读书和电影标题很有意思,特别是电影标题,引入了豆瓣电影</p><p>如果说要学习归档,分类,如何做的简洁而又方便的话,一定要去学习这个网站</p><ul><li><strong>Next</strong></li></ul><figure class="highlight http"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">https://theme-next.org*</span></span><br></pre></td></tr></table></figure><p><strong>Next</strong>的主题博客,Next也是我搭建<strong>Hexo</strong>博客的选择的主题,看到知乎评论,这是被选择使用次数最多的一个博客主题,拥有众多使用用户,自然也有很多现成的使用方法,所以比较容易做出一点自己的东西出来.</p><p>这里有最全最新的博客主题的使用方法,这个主题是有专门的人员进行维护的,可以更加方便的去选择套用模板.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;种草算法学习网站&quot;&gt;&lt;a href=&quot;#种草算法学习网站&quot; class=&quot;headerlink&quot; title=&quot;种草算法学习网站&quot;&gt;&lt;/a&gt;种草算法学习网站&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;数据结构和算法动态可视化 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>hello blog</title>
